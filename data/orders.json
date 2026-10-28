@@ -1,0 +1,20 @@
+{
+  "ORD-1001": {
+    "status": "Shipped",
+    "estimated_delivery": "in 2 business days",
+    "days_since_delivery": null,
+    "items": ["Wireless mouse"]
+  },
+  "ORD-1002": {
+    "status": "Delivered",
+    "estimated_delivery": null,
+    "days_since_delivery": 5,
+    "items": ["USB-C hub"]
+  },
+  "ORD-1003": {
+    "status": "Delivered",
+    "estimated_delivery": null,
+    "days_since_delivery": 45,
+    "items": ["Laptop stand"]
+  }
+}

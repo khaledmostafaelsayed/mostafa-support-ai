@@ -1,0 +1,95 @@
+[
+  {
+    "topic": "shipping",
+    "topic_ar": "الشحن والتوصيل",
+    "keywords": [
+      "shipping",
+      "ship",
+      "delivery time",
+      "deliver",
+      "business days",
+      "arrive",
+      "الشحن",
+      "شحن",
+      "التوصيل",
+      "التوصيل",
+      "يوصل",
+      "وصول",
+      "مدة الشحن",
+      "كام يوم",
+      "كم يوم",
+      "توصيل",
+      "التسليم"
+    ],
+    "answer": "The demo store's standard shipping estimate is 3–5 business days. This is sample policy text, not a real store commitment.",
+    "answer_ar": "مدة الشحن التقديرية في هذا المتجر التجريبي من 3 إلى 5 أيام عمل. هذه معلومة تجريبية وليست وعدًا حقيقيًا بالتسليم."
+  },
+  {
+    "topic": "returns",
+    "topic_ar": "الاسترجاع والاسترداد",
+    "keywords": [
+      "return",
+      "return window",
+      "eligible",
+      "refund policy",
+      "money back",
+      "استرجاع",
+      "استرداد",
+      "إرجاع",
+      "ارجاع",
+      "أرجع",
+      "ارجع",
+      "فلوسي",
+      "فلوس",
+      "سياسة الاسترجاع",
+      "فترة الاسترجاع",
+      "مؤهل",
+      "ارجاع المنتج"
+    ],
+    "answer": "Under the demo policy, customers may request a return within 30 days after delivery. Eligibility must be checked for the specific demo order; a check does not submit or process a refund.",
+    "answer_ar": "وفقًا للسياسة التجريبية، يمكن طلب إرجاع المنتج خلال 30 يومًا من تاريخ التسليم. يجب فحص أهلية كل طلب على حدة؛ وهذا الفحص لا يقدّم طلب الاسترجاع ولا ينفّذ ردّ الأموال."
+  },
+  {
+    "topic": "refund_timing",
+    "topic_ar": "مدة رد الأموال",
+    "keywords": [
+      "refund timing",
+      "refund time",
+      "refund processed",
+      "how long for refund",
+      "refund take",
+      "مدة رد الأموال",
+      "متى يرجع المبلغ",
+      "متى ترجع الفلوس",
+      "وقت الاسترداد",
+      "مدة الاسترداد",
+      "رد الأموال",
+      "استرداد المبلغ"
+    ],
+    "answer": "Under the demo policy, an approved refund may take 5–7 business days to appear on the original payment method. No refund is actually processed by this demo.",
+    "answer_ar": "وفقًا للسياسة التجريبية، قد يستغرق ظهور المبلغ المسترد من 5 إلى 7 أيام عمل بعد الموافقة. هذا التطبيق التجريبي لا ينفّذ أي عملية رد أموال فعلية."
+  },
+  {
+    "topic": "payments",
+    "topic_ar": "طرق الدفع",
+    "keywords": [
+      "payment",
+      "pay",
+      "accepted",
+      "card",
+      "apple pay",
+      "الدفع",
+      "طرق الدفع",
+      "وسائل الدفع",
+      "بطاقة",
+      "بطاقات",
+      "ابل باي",
+      "أبل باي",
+      "وسيلة الدفع",
+      "بتدفعوا ازاي",
+      "طرق السداد"
+    ],
+    "answer": "The demo store lists credit/debit cards and Apple Pay as accepted payment methods. This is fictional sample information.",
+    "answer_ar": "تتضمن طرق الدفع في المتجر التجريبي بطاقات الائتمان والخصم وApple Pay. هذه بيانات خيالية لغرض العرض فقط."
+  }
+]
